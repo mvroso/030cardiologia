@@ -1,0 +1,22 @@
+{
+  "name": "030cardiologia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvroso/030cardiologia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvroso/030cardiologia/issues"
+  },
+  "homepage": "https://github.com/mvroso/030cardiologia#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
